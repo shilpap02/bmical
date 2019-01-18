@@ -1,0 +1,34 @@
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\AppUnitTests.dll
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\AppUnitTests.pdb
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\BMICalculator.dll
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\BMICalculator.pdb
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\AppUnitTests\obj\Debug\AppUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\AppUnitTests\obj\Debug\AppUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\AppUnitTests\obj\Debug\AppUnitTests.csproj.CopyComplete
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\AppUnitTests\obj\Debug\AppUnitTests.dll
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\AppUnitTests\obj\Debug\AppUnitTests.pdb
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\AppUnitTests.dll
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\AppUnitTests.pdb
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\BMICalculator.dll
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\BMICalculator.pdb
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\AppUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\AppUnitTests\obj\Debug\AppUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\AppUnitTests\obj\Debug\AppUnitTests.dll
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\AppUnitTests\obj\Debug\AppUnitTests.pdb
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\Digital%20DevOps%20Automation\XamarinApp\BMICalculator\AppUnitTests\obj\Debug\AppUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\Digital%20DevOps%20Automation\XamarinApp\BMICalculator\AppUnitTests\obj\Debug\AppUnitTests.dll
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\Digital%20DevOps%20Automation\XamarinApp\BMICalculator\AppUnitTests\obj\Debug\AppUnitTests.pdb
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\Digital%20DevOps%20Automation\XamarinApp\BMICalculator\AppUnitTests\obj\Debug\AppUnitTests.csproj.CoreCompileInputs.cache

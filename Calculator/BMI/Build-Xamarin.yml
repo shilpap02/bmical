@@ -1,0 +1,61 @@
+queue:
+  name: Hosted VS2017
+  demands: 
+  - MSBuild
+  - Xamarin.Android
+  - msbuild
+  - vstest
+  - JDK
+  - AndroidSDK
+
+
+variables:
+  BuildConfiguration: 'Release'
+steps:
+- task: NuGetToolInstaller@0
+  displayName: Use NuGet 4.4.1
+  inputs:
+    versionSpec: 4.4.1
+
+- task: NuGetCommand@2
+  displayName: NuGet restore
+  inputs:
+    restoreSolution: '**\BMICalculator.sln'
+
+- task: XamarinAndroid@1
+  displayName: Build Xamarin.Android project **/*BMI*.csproj
+  inputs:
+    projectFile: '**/*BMI*.csproj'
+    outputDirectory: '$(build.binariesdirectory)/$(BuildConfiguration)'
+    configuration: '$(BuildConfiguration)'
+    clean: true
+
+- task: MSBuild@1
+  displayName: Build solution **/*AppUnitTests*.csproj
+  inputs:
+    solution: '**/*AppUnitTests*.csproj'
+    configuration: '$(BuildConfiguration)'
+    msbuildArguments: '/p:OutputPath="$(build.binariesdirectory)/$(BuildConfiguration)/test-assembly"'
+    clean: true
+
+- task: VSTest@2
+  displayName: VsTest - testAssemblies
+  inputs:
+    testAssemblyVer2: |
+     **\*AppUnitTests*.dll
+     !**\obj\**
+    codeCoverageEnabled: true
+
+- task: AndroidSigning@2
+  displayName: Signing and aligning APK file(s) $(build.binariesdirectory)/$(BuildConfiguration)/*.apk
+  inputs:
+    apkFiles: '$(build.binariesdirectory)/$(BuildConfiguration)/*.apk'
+    jarsignerKeystoreFile: 'e43ff62f-f452-4545-acb7-ee20aa18ce57'
+    jarsignerKeystorePassword: android
+    jarsignerKeystoreAlias: 'alias_name'
+    jarsignerKeyPassword: android
+
+- task: PublishBuildArtifacts@1
+  displayName: Publish Artifact
+  inputs:
+    PathtoPublish: '$(build.binariesdirectory)/$(BuildConfiguration)'

@@ -1,0 +1,28 @@
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\UITest1\bin\Debug\UITest1.dll
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\UITest1\bin\Debug\UITest1.pdb
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\UITest1\bin\Debug\BMICalculator.dll
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\UITest1\bin\Debug\nunit.framework.dll
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\UITest1\bin\Debug\Xamarin.UITest.dll
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\UITest1\bin\Debug\BMICalculator.pdb
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\UITest1\bin\Debug\nunit.framework.xml
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\UITest1\bin\Debug\Xamarin.UITest.xml
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\UITest1\obj\Debug\UITest1.csprojResolveAssemblyReference.cache
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\UITest1\obj\Debug\UITest1.csproj.CoreCompileInputs.cache
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\UITest1\obj\Debug\UITest1.csproj.CopyComplete
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\UITest1\obj\Debug\UITest1.dll
+C:\Users\Unnikrishnan_P01\XamarinApp\BMICalculator\UITest1\obj\Debug\UITest1.pdb
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\UITest1\bin\Debug\UITest1.dll
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\UITest1\bin\Debug\UITest1.pdb
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\UITest1\bin\Debug\BMICalculator.dll
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\UITest1\bin\Debug\nunit.framework.dll
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\UITest1\bin\Debug\Xamarin.UITest.dll
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\UITest1\bin\Debug\BMICalculator.pdb
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\UITest1\bin\Debug\nunit.framework.xml
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\UITest1\bin\Debug\Xamarin.UITest.xml
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\UITest1\obj\Debug\UITest1.csprojResolveAssemblyReference.cache
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\UITest1\obj\Debug\UITest1.dll
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\XamarinApp\BMICalculator\UITest1\obj\Debug\UITest1.pdb
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\Digital%20DevOps%20Automation\XamarinApp\BMICalculator\UITest1\obj\Debug\UITest1.csprojResolveAssemblyReference.cache
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\Digital%20DevOps%20Automation\XamarinApp\BMICalculator\UITest1\obj\Debug\UITest1.dll
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\Digital%20DevOps%20Automation\XamarinApp\BMICalculator\UITest1\obj\Debug\UITest1.pdb
+C:\Users\SenthilEPVS2017\Documents\Visual Studio 2017\Projects\Digital%20DevOps%20Automation\XamarinApp\BMICalculator\UITest1\obj\Debug\UITest1.csproj.CoreCompileInputs.cache
